@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_dashboard"
+            android:title="@string/home_menu_home" />
+        <item
+            android:id="@+id/nav_doctor"
+            android:icon="@drawable/ic_menu_doctor"
+            android:title="@string/home_menu_doctor" />
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/ic_menu_social"
+            android:title="@string/home_menu_social" />
+        <item
+            android:id="@+id/nav_image"
+            android:icon="@drawable/ic_menu_image"
+            android:title="@string/home_menu_image" />
+        <item
+            android:id="@+id/nav_evaluate"
+            android:icon="@drawable/ic_menu_evaluate"
+            android:title="@string/home_menu_evaluate" />
+        <item
+            android:id="@+id/nav_improve"
+            android:icon="@drawable/ic_menu_improve"
+            android:title="@string/home_menu_improve" />
+        <item
+            android:id="@+id/nav_upgrade"
+            android:icon="@drawable/ic_menu_upgrade"
+            android:title="@string/home_menu_upgrade" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_menu_setting"
+            android:title="@string/home_menu_setting" />
+    </group>
+
+</menu>

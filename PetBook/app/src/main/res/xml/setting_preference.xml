@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="@string/setting_pref_sync_key"
+        android:summary="@string/setting_pref_sync_summary"
+        android:title="@string/setting_pref_sync_title"/>
+    <SwitchPreference
+        android:key="@string/setting_pref_notify_key"
+        android:summary="@string/setting_pref_notify_summary"
+        android:title="@string/setting_pref_notify_title"
+        android:defaultValue="@string/setting_pref_notify_default"/>
+    <Preference
+        android:key="@string/setting_pref_policy_key"
+        android:summary="@string/setting_pref_policy_summary"
+        android:title="@string/setting_pref_policy_title"/>
+    <Preference
+        android:key="@string/setting_pref_about_key"
+        android:summary="@string/setting_pref_about_summary"
+        android:title="@string/setting_pref_about_title"/>
+    <Preference
+        android:key="@string/setting_pref_version_key"
+        android:summary="@string/setting_pref_version_summary"
+        android:title="@string/setting_pref_version_title"/>
+</PreferenceScreen>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="100"
+    android:layout_height="74dp">
+
+    <RelativeLayout
+        android:layout_width="60dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="10/17"
+            android:textSize="12dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="60dp"
+        android:layout_weight="80">
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="11dp"
+            android:background="@color/disable"/>
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_filter_tilt_shift"/>
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="11dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/disable"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/background_shadow">
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/ic_dog"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="60dp"
+                android:text="lectus nec venenatis volutpat  purus lectus"
+                android:layout_marginRight="10dp"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

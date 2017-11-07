@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">PetBook</string>
+    <string name="slogan">Sẻ chia những điều tuyệt vời nhất</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category item name -->
+    <string name="category_item_dog">Kinh Nghiệm Nuôi Chó</string>
+
+    <!--List Title Name-->
+    <string name="post_header_title">Bài Viết</string>
+
+    <!-- Home Menu title -->
+    <string name="home_menu_home">Trang Chính</string>
+    <string name="home_menu_doctor">Bác Sĩ</string>
+    <string name="home_menu_social">Cộng Đồng</string>
+    <string name="home_menu_image">Ảnh Thú Cưng</string>
+    <string name="home_menu_evaluate">Đánh Giá</string>
+    <string name="home_menu_improve">Đóng Góp</string>
+    <string name="home_menu_upgrade">Nâng Cấp</string>
+    <string name="home_menu_setting">Cài Đặt</string>
+    <string-array name="fragment_titles">
+        <item>Trang Chính</item>
+        <item>Bác Sĩ</item>
+        <item>Cộng Đồng</item>
+        <item>Đánh Giá</item>
+        <item>Đóng Góp</item>
+        <item>Nâng Cấp</item>
+        <item>Cài Đặt</item>
+    </string-array>
+
+    <!--Setting Preference-->
+    <string name="setting_pref_sync_key">setting_pref_sync</string>
+    <string name="setting_pref_sync_summary"></string>
+    <string name="setting_pref_sync_title">Đồng Bộ Dữ Liệu</string>
+    <string name="setting_pref_sync_default">Khi Khởi Động</string>
+
+    <string name="setting_pref_notify_key">setting_pref_notify</string>
+    <string name="setting_pref_notify_summary"></string>
+    <string name="setting_pref_notify_title">Thông Báo</string>
+    <string name="setting_pref_notify_default">Tắt</string>
+
+    <string name="setting_pref_policy_key">setting_pref_policy</string>
+    <string name="setting_pref_policy_summary"></string>
+    <string name="setting_pref_policy_title">Điều Khoản Sử Dụng</string>
+    <string name="setting_pref_policy_default"></string>
+
+    <string name="setting_pref_about_key">setting_pref_about</string>
+    <string name="setting_pref_about_summary"></string>
+    <string name="setting_pref_about_title">Giới Thiệu</string>
+    <string name="setting_pref_about_default"></string>
+
+    <string name="setting_pref_version_key">setting_pref_version</string>
+    <string name="setting_pref_version_summary">1.0.0</string>
+    <string name="setting_pref_version_title">Phiên Bản</string>
+    <string name="setting_pref_version_default">1.0.0</string>
+
+    <!--Upgare Page Text-->
+    <string name="upgrade_title">PetBooks Premium</string>
+    <string name="upgrade_button_title">20.000VND/~1USD</string>
+    <string name="upgrade_content_title">TTC-Group là một đội ngũ còn rất non trẻ.
+        Chúng tôi đang ngày càng hoản thiện bản thân để đem đến những sản phẩm chất lượng hơn.
+        Để làm được điều này chúng tôi cần sự chung tay giúp đỡ của các bạn.
+        Để ủng hộ chúng tôi hãy mua bản Premium với những tính năng tốt hơn rất nhiều so với bản Free</string>
+    <string name="upgrade_content_detail1">Cập Nhập Dữ Liệu \nVới phiên bản Premium chúng tôi đảm bảo bạn luôn được cập nhập những bài viết, những dữ liệu đầy đủ và nhanh nhất.</string>
+    <string name="upgrade_content_detail2">Quảng Cáo Miễn Phí \nBạn sẽ có những trải nghiệm thú vị với Petbooks mà không bị làm phiền hay gián đoạn bởi bất kì quảng cáo nào</string>
+    <string name="upgrade_content_detail3">Tính Năng Cộng Đồng \nBạn sẽ có thể truy cập tính năng cộng đồng, giúp bạn có thể chia sẻ trao đổi với người khác những kinh nghiệm chăm sóc thú cưng của mình, Ngoài ra chức năng đăng hình ảnh thú cưng sẽ được chúng tôi xem xét nhanh hơn</string>
+    <!--Test only-->
+    <string name="test1">Fusce auctor, metus eu ultricies vulputate, sapien nibh faucibus ligula, eget sollicitudin augue risus et dolor. Aenean pellentesque, tortor in cursus mattis, ante diam malesuada ligula, ac vestibulum neque turpis ut enim. Cras ornare. Proin ac nisi. Praesent laoreet ante tempor urna. In imperdiet. Nam ut metus et orci fermentum nonummy. Cras vel nunc. Donec feugiat neque eget purus. Quisque rhoncus. Phasellus tempus massa aliquet urna. Integer fringilla quam eget dolor. Curabitur mattis. Aliquam ac lacus. In congue, odio ut tristique adipiscing, diam leo fermentum ipsum, nec sollicitudin dui quam et tortor. Proin id neque ac pede egestas lacinia. Curabitur non odio. </string>
+</resources>
